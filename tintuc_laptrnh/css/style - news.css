@@ -1,0 +1,377 @@
+    body{
+    background: #F7F7F7;
+}
+.section-tintuc{
+    padding-top: 40px;
+   
+}
+.section-noidung{
+    width: 70%;
+}
+.section-sldie{
+   
+    position: relative;
+      background: #eee;
+      font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      color: #000;
+      margin: 0;
+      padding: 0
+      
+}
+.section-congnghe{
+    padding: 17px 0px;
+}
+
+.tintuc-tieude p{
+    color: black;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 1.4em;
+    margin: 8px 0 0;
+}
+a:hover{
+    color: #FF3D00; 
+}
+.item a :hover{
+    color: #FF3D00;
+}
+
+ .more {
+        float: right;
+        font-size: 12px;
+        color: #aaaaaa;
+        line-height: 16px;
+        padding: 0;
+    }
+
+
+.silde_thongbao{
+   max-width: 28%;
+   margin-left: 2%;
+}  
+.section-thachthuc{
+    width: 70%;
+    
+}
+.p-13{
+    padding: 13px;  
+}
+.section_content{
+    margin-top: 30px;
+}
+.item-thachthuc{
+    display: flex;
+    margin-top: 14px;
+    width: 100%;
+    border-bottom: 2px solid #ebebeb;
+
+}
+.hinhanh-thachthuc{
+    width: 40%;
+}
+.hinhanh-thachthuc img{
+    max-width: 100%;
+}
+.content-thachthuc{
+    width: 58%;
+    margin-left: 2%;
+
+}
+.tieude-thachthuc {
+    color: black;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 1.4em;
+    
+}
+a .tieude-thachthuc:hover{
+    color: #FF3D00;
+}
+.items-thoigian{
+    font-family: 'Font Awesome 5 Free';
+    font-size: 13px;
+    font-weight: 400;
+    font-style: normal;
+    color: #aaaaaa;
+
+}
+.txt-14{
+    font-size: 14px;
+}
+.silde_ngonngu{
+    width: 28%;
+    margin-left: 2%;
+ }  
+.ngonngu{
+   max-width: 100%;
+ }
+ .silde_ngonngu1{
+     max-width: 100%;
+ }
+ .ngongu-1{
+    color: #171c24;
+    font-size: 13px;
+    font-weight: 400;
+    text-transform: capitalize;
+    padding: 5px 0;
+ }
+ .ngonngu ul li{
+    line-height: 30px;
+ }
+ .ngonngu li{
+     list-style: none;
+ }
+.ngongu-1 span{
+    float: right;
+    font-size: 11px;
+    color: #aaaaaa;
+    text-decoration: none;
+    margin: 1px 0 0 5px;
+}
+.silde-ngonngu2{
+    padding: 15px 0;
+}
+.ngonngu2 ul li{
+    float: left;
+    list-style: none;
+    padding-right: 5px;
+}
+.ngonngu2 ul li a{
+    height: 25px;
+    background-color: rgba(155,155,155,0.05);
+    color: #aaaaaa;
+    font-size: 11px;
+    line-height: 23px;
+    font-weight: 400;
+    box-sizing: border-box;
+    padding: 0 9px;
+    border: 1px solid rgba(0,0,0,.1);
+    border-bottom-width: 2px;
+    border-radius: 2px;
+}
+.ngonngu2 ul li a:hover{
+    background:#FF3D00 ;
+}
+.section-footer{
+    background-color: #171c24;
+    color: #aaaaaa;
+    border-top: 1px solid rgba(155,155,155,0.2);
+}
+.items-left{
+    width: 80%;
+    display: flex;
+}
+.items-left{
+    padding: 30px 0px;
+}
+.items-1{
+    margin-bottom: 25px;
+}
+.hinhanh_tintuc img{
+    width: 100%;
+    
+}
+.tieude_tintuc{
+
+    color: black;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 1.4em;
+
+}
+
+
+.logo-footer-1{
+   
+        width: 30%;
+        /* font-size: 30px; */
+        color: #fff;
+        font-size: 30px;
+        font-family: fantasy;
+        align-items: center;
+   
+}
+.logo-footer{
+    display: flex;
+    width: 100%;
+}
+
+.logo-menu{
+    width: 20%;
+}
+.logo-menu a:hover{
+    color: #fff;
+}
+.footer-ghichu{
+    width: 50%;
+}
+.footer-ghichu h3{
+
+   
+    font-size: 16px;
+    color: #ffffff;
+    font-weight: 600;
+   
+   
+}
+.footer-ghichu p{
+    font-size: 14px;
+    color: #aaaaaa;
+}
+.items-right{
+    width: 20%;
+    padding: 30px 0px;
+
+}
+.section-follow h3{
+
+   
+    font-size: 16px;
+    color: #ffffff;
+    font-weight: 600;
+   
+   
+}
+.section-ungdung ul{
+    display: flex;
+}
+.section-ungdung ul li {
+    list-style: none;
+    padding-right: 15px;
+}
+.section-ungdung ul li a i{
+    width: 34px;
+    height: 34px;
+    background-color: rgba(155,155,155,0.1);
+    font-size: 15px;
+    color: #f2f2f2;
+    text-align: center;
+    line-height: 34px;
+    box-sizing: border-box;
+    border: 1px solid rgba(0,0,0,.1);
+    border-bottom-width: 2px;
+    border-radius: 2px;
+}
+.section-ungdung ul li .facebook i:hover{
+    background: blue;
+}
+.section-ungdung ul li .youtober i:hover{
+   background: #f50000;
+}
+.section-ungdung ul li .instagram i:hover{
+    background: linear-gradient( 15deg ,#ffb13d,#dd277b,#4d5ed4)
+}.section-ungdung ul li .twitter i:hover{
+    background-color: #00acee;
+}
+.pagination{
+    justify-content: center;
+}
+@media screen and (max-width:990px){
+ 
+   
+    .silde_thongbao{
+        max-width: 100%;
+        margin-left: 0px;
+    }
+    
+    .section-thachthuc {
+        margin-bottom: 20px;
+        width: 100%;
+        margin-top: 20px;
+    }
+    .silde_thongbao {
+        max-width: 100%;
+      margin-left: 0px;
+}
+
+
+.list-tieude {
+    width: 58%;
+    margin-left: 2%;
+}
+
+
+ .silde_ngonngu {
+    width: 100%;
+    margin-left: 0;
+    
+}
+.items{
+    margin-bottom: 10px  ;
+}
+.list-hinhanh {
+width: 43%;
+
+
+}
+.list-tieude {
+    width: 58%;
+    margin-left: 2%;
+}
+.items-left {
+    margin-top:22px;
+    width: 100%;
+    padding: 0;
+}   
+.logo-footer {
+    display: block;
+    width: 100%;
+    justify-items: center;
+    text-align: center;
+}
+.logo-menu {
+    width: 100%;
+}
+.footer-ghichu {
+    margin-top: 16px;
+    width: 98%;
+}
+.items-right {
+    text-align: center;
+    width: 100%;
+    padding: 0px 0px;
+}
+.section-ungdung ul {
+    display: flex;
+    margin: 20px auto;
+    width: 170px;
+}
+}
+  
+@media screen and (max-width:550px){
+    .container{
+        padding: 0px 30px;
+    }
+   
+    .section_content{
+        margin-top: 0px;
+    }
+    .section-thachthuc {
+        margin-bottom: 20px;
+     
+    }
+    .items-1{
+        text-align: center;
+    }
+    .hinhanh_tintuc img{
+        width: 75%;
+    }
+   .list-tieude .list-tieude1 {
+    font-size: 15px;
+    padding-right: 41px;
+      
+   }
+   .list-thoigian {
+    margin-top: 7px;
+    font-size: 10px;
+    color: #aaaaaa;
+}
+
+
+.content-thachthuc {
+    width: 100%;
+    margin-left: 0%;
+}
+
+}
